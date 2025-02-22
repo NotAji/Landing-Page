@@ -203,6 +203,7 @@ li{
     border: 2px solid #E5E7EB;
     border-radius: 10px;
     color: #E5E7EB;
+    cursor: pointer;
 }
 
 footer{
